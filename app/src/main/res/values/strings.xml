@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="map_key" translatable="false">AIzaSyAiPvhTrgT0U7bICEy7v-RP7FO43wxjm44</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
